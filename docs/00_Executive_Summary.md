@@ -1,4 +1,4 @@
-# 00 — Executive Summary
+# 00 — Summary
 
 **Project:** SAIL · **Doc:** 00 · **Date:** 2026-07-18 · **Status:** Business Plan Draft v1.0
 

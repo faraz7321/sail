@@ -4,7 +4,7 @@
 
 const DOCS = [
   {id:'README',                                  path:'README.md',                                    title:'Overview',                         group:'Overview',              badge:'★'},
-  {id:'00_Executive_Summary',                    path:'docs/00_Executive_Summary.md',                 title:'Executive Summary',                group:'Overview',              badge:'00'},
+  {id:'00_Executive_Summary',                    path:'docs/00_Executive_Summary.md',                 title:'Summary',                group:'Overview',              badge:'00'},
   {id:'01_Product_Vision_and_Scope',             path:'docs/01_Product_Vision_and_Scope.md',          title:'Product Vision & Scope',           group:'Strategy',              badge:'01'},
   {id:'02_Market_and_Feasibility',               path:'docs/02_Market_and_Feasibility.md',            title:'Market & Feasibility',             group:'Strategy',              badge:'02'},
   {id:'03_Functional_Requirements',              path:'docs/03_Functional_Requirements.md',           title:'Functional Requirements',          group:'Product',               badge:'03'},

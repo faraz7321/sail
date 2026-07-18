@@ -141,7 +141,7 @@ Illustrative ROI framing (directional):
 ---
 
 ## Related documents
-- [00 — Executive Summary](00_Executive_Summary.md)
+- [00 — Summary](00_Executive_Summary.md)
 - [01 — Product Vision and Scope](01_Product_Vision_and_Scope.md)
 - [04 — Subscription Tiers and Feature Matrix](04_Subscription_Tiers_and_Feature_Matrix.md)
 - [05 — System Architecture](05_System_Architecture.md)
