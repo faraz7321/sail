@@ -76,7 +76,7 @@ The plan and budget assume the following. Material deviation is re-planned at th
 
 ## Related documents
 
-- [00 — Summary](00_Executive_Summary.md)
+- [00 — Summary](00_Summary.md)
 - [02 — Market & Feasibility](02_Market_and_Feasibility.md)
 - [05 — System Architecture](05_System_Architecture.md)
 - [10 — Hosting & Infrastructure Costs](10_Hosting_and_Infrastructure_Costs.md)

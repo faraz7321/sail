@@ -125,7 +125,7 @@ The four-stage reference pipeline — **(1) Secure Data Ingestion → (2) Automa
 
 **Business plan**
 - [README (index)](../../README.md)
-- [00 — Summary](../00_Executive_Summary.md)
+- [00 — Summary](../00_Summary.md)
 - [01 — Product Vision & Scope](../01_Product_Vision_and_Scope.md)
 - [02 — Market & Feasibility](../02_Market_and_Feasibility.md)
 - [03 — Functional Requirements](../03_Functional_Requirements.md)

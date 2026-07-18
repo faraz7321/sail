@@ -200,7 +200,7 @@ All quantitative assumptions and constants underpinning these targets are consol
 ---
 
 ## Related documents
-- [00 — Summary](00_Executive_Summary.md)
+- [00 — Summary](00_Summary.md)
 - [02 — Market and Feasibility](02_Market_and_Feasibility.md)
 - [03 — Functional Requirements](03_Functional_Requirements.md)
 - [04 — Subscription Tiers and Feature Matrix](04_Subscription_Tiers_and_Feature_Matrix.md)

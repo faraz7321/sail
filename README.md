@@ -14,7 +14,7 @@ A multi-tenant SaaS that lets US small businesses (cafés, hotels, ice-cream sho
 
 | # | Document | What it answers |
 |---|----------|-----------------|
-| — | [Summary](docs/00_Executive_Summary.md) | The whole thing on one page. |
+| — | [Summary](docs/00_Summary.md) | The whole thing on one page. |
 | 01 | [Product Vision & Scope](docs/01_Product_Vision_and_Scope.md) | The idea, who it's for, scope in/out. |
 | 02 | [Market & Feasibility](docs/02_Market_and_Feasibility.md) | Market size, competitors, honest risks, pricing reality. |
 | 03 | [Functional Requirements](docs/03_Functional_Requirements.md) | Every feature/module + user stories. |
